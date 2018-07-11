@@ -1,0 +1,4 @@
+age,pulse,respiratory_rate,packed_cell_volume,total_protein,abdomo_protein,rectal_temp
+adult,50,36,39,6.6,5.3,38
+adult,100,24,50,6,3.4,36.5
+adult,40,20,36,62,1,37.2
